@@ -1,0 +1,15 @@
+{
+    "js": [
+        "js/colReorder.bootstrap5.js",
+        "js/colReorder.bootstrap5.min.js"
+    ],
+    "css": [
+        "css/colReorder.bootstrap5.css",
+        "css/colReorder.bootstrap5.min.css"
+    ],
+    "types": [
+        "types/colReorder.bootstrap5.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/ColReorder",
+    "last-tag": "1.5.3"
+}
