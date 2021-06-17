@@ -4,16 +4,16 @@
     "main": "js/colReorder.bootstrap5.js",
     "style": "css/colReorder.bootstrap5.css",
     "types": "./types/colReorder.bootstrap5.d.ts",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "ColReorder",
- "Reorder",
+        "Reorder",
         "Bootstrap",
- "Bootstrap5",
+        "Bootstrap5",
         "Datatables",
         "jQuery",
         "table",
