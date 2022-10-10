@@ -2,12 +2,14 @@
     "name": "datatables.net-colreorder-bs5",
     "description": "ColReorder for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/colReorder.bootstrap5.js",
+    "module": "js/colReorder.bootstrap5.mjs",
     "style": "css/colReorder.bootstrap5.css",
     "types": "./types/colReorder.bootstrap5.d.ts",
     "version": "1.5.6",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
