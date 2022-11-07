@@ -1,11 +1,10 @@
-
 /*! Bootstrap 5 styling wrapper for ColReorder
  * ©2018 SpryMedia Ltd - datatables.net/license
  */
 
 import $ from 'jquery';
 import DataTable from 'datatables.net-bs5';
-import DataTable from 'datatables.net-colreorder';
+import 'datatables.net-colreorder';
 
 
 
