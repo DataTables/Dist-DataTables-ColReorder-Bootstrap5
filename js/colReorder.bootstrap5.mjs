@@ -7,7 +7,6 @@ import DataTable from 'datatables.net-bs5';
 import ColReorder from 'datatables.net-colreorder';
 
 
-
 (function( factory ){
 	if ( typeof define === 'function' && define.amd ) {
 		// AMD
